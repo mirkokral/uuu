@@ -1,0 +1,1 @@
+void mem_init(int mem_upper, int mem_lower);
